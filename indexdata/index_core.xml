@@ -6,7 +6,7 @@
         tour_soundsvolume="100" 
         tour_autotourenabled="false"
         tour_autorotateenabled="false"
-        tour_controlmodemousetype="moveto"
+        tour_controlmodemousetype="drag2d"
         tour_controlmodetouchtype="drag2d"
         tour_fullscreen="false"
         tour_displaymap="false"
